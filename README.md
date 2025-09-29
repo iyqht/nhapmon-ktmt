@@ -14,3 +14,7 @@ Sinh viên năm nhất trường Đại học Sư phạm kỹ thuật HCM
 Lê Hoài An
 25119052
 Sinh viên Khoa Điện-Điện tử Trường Đại học Sư phạm Kỹ thuật TP.HCM
+
+Nguyễn Quốc Khánh
+25119099
+Sinh viên năm nhất ngành Công Nghệ Kỹ Thuật Máy Tính trường Đại học sư phạm kỹ thuật TP.HCM
