@@ -18,3 +18,7 @@ Sinh viên Khoa Điện-Điện tử Trường Đại học Sư phạm Kỹ thu�
 Nguyễn Quốc Khánh
 25119099
 Sinh viên năm nhất ngành Công Nghệ Kỹ Thuật Máy Tính trường Đại học sư phạm kỹ thuật TP.HCM
+
+Lâm Nghĩa
+25119123
+Sinh viên năm nhất trường Đại Học Sư Phạm Kỹ Thuật TP.HCM
